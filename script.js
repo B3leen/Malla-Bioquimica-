@@ -61,9 +61,6 @@ const ramosPorSemestre = {
     "Práctica en Investigación",
     "Práctica en Sector Productivo",
     "Biotecnología y Propiedad Intelectual"
-  ],
-  "10° semestre": [
-    "Integrador III: Memoria de Título"
   ]
 };
 
@@ -86,6 +83,7 @@ const prerrequisitos = {
   "Bioquímica": ["Fisiología General", "Fisicoquímica", "Análisis Orgánico"],
   "Farmacodinamia y Farmacogenómica": ["Análisis Orgánico", "Genética"],
   "Ingles IV": ["Ingles III"],
+  "Responsabilidad social": ["Pensamiento Crítico"]
   "Microbiología General": ["Bioquímica"],
   "Bioquímica y Herramientas Bioinformáticas": ["Bioquímica", "Farmacodinamia y Farmacogenómica"],
   "Biología Molecular": ["Bioquímica", "Ingles IV"],
