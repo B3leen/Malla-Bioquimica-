@@ -83,7 +83,7 @@ const prerrequisitos = {
   "Bioquímica": ["Fisiología General", "Fisicoquímica", "Análisis Orgánico"],
   "Farmacodinamia y Farmacogenómica": ["Análisis Orgánico", "Genética"],
   "Ingles IV": ["Ingles III"],
-  "Responsabilidad social": ["Pensamiento Crítico"]
+  "Responsabilidad social": ["Pensamiento Crítico"],
   "Microbiología General": ["Bioquímica"],
   "Bioquímica y Herramientas Bioinformáticas": ["Bioquímica", "Farmacodinamia y Farmacogenómica"],
   "Biología Molecular": ["Bioquímica", "Ingles IV"],
